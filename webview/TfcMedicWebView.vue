@@ -46,7 +46,7 @@
         </div>
 
         <div v-if="currentSite === 'computer'" style="margin: auto; height: calc(87%); width: calc(99% - 20px)">
-            <iframe src="https://pc.medicnet.li/" width="100%" height="100%">its not working...</iframe>
+            <iframe src="https://medicnet.ch/" width="100%" height="100%">its not working...</iframe>
         </div>
     </div>
 </template>
