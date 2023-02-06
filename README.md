@@ -7,5 +7,6 @@
 - Plus: You can use this Interface to heal or revive Players that are currently Online
 
 * Command: /medicjob (Displays the Webinterface in Game for Medicnet and Player Actions)
+- at the moment you need to be an Admin or Moderator to use that command. I will add a config in the future
 
 * Install the Folder into src/core/plugins/
